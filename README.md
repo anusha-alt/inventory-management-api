@@ -49,20 +49,9 @@ pip install -r requirements.txt
 
 -Add, update, and fetch products
 
-### 6. Project structure:
-inventory-mangement-api/
-├── app/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── auth.py
-│   └── routes.py
-├── requirements.txt
-├── README.md
-└── Dockerfile (optional)
 
-### 7. Endpoints summary
+
+### 6. Endpoints summary
 | Method | Endpoint                  | Description                              |
 | ------ | ------------------------- | ---------------------------------------- |
 | POST   | `/register`               | Register a new user                      |
