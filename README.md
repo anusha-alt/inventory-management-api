@@ -13,4 +13,4 @@ docker run -p 8080:8080 inventory-api
 - SQLite database
 
 ## Docs
-Once running: `http://localhost:8080/docs`
+Once running: `http://127.0.0.1:8000/docs`
